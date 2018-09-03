@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1446667744 source:e:\workspace\codeblock\test\main.cpp
+	<iostream>
+
+1526110465 source:e:\workspace\codeblock\test\src\node.cpp
+	"Node.h"
+	<math.h>
+	<iostream>
+
+1526110390 e:\workspace\codeblock\test\include\node.h
+
+1526110465 source:d:\workspace\codeblocks\calculator\src\node.cpp
+	"Node.h"
+	<math.h>
+	<iostream>
+
+1526110390 d:\workspace\codeblocks\calculator\include\node.h
+
